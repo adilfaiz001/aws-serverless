@@ -17,7 +17,7 @@ Molecular Design
 4. Security
 
 
-Atmoic Components
+Atomic Components
 -
 
 1. Compute 
