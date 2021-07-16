@@ -1,6 +1,6 @@
 # aws
 
-Learning Serverles development, making modular services and writing them in wikis to get view of each component of AWS and its working.
+Learning Serverles development, making modular services and writing them in wikis to get view of each component of AWS and its working. Learning of the AWS is like discrete learning, first we will look at our usecase and learn about the component in AWS, and deep dive along learning and implementation in our usecase.
 
 Lets divide all the way process of learning in the following ways to have a better understanding of each level of hirerachy.
 1. Atomic: This word is used to define smallest unit of component in AWS, which are categorized in larger class which define its properties and methods
