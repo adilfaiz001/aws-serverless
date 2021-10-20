@@ -22,3 +22,6 @@ Atomic Components
 
 1. Compute 
    1. EC2
+
+2. Storage
+   1. S3
